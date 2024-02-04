@@ -1,5 +1,5 @@
 /**
- * @file FlappyBirdEngine.c
+ * @file Firmware.h
  * @author Vincent Iadarola KHK Expo
  * @brief to do
  * @version 0.1
@@ -8,4 +8,7 @@
  * @copyright Copyright (c) 2024
  *
  */
-#include "FlappyBirdEngine.h"
+#ifndef __FIRMWARE_H__
+#define __FIRMWARE_H__
+
+#endif
